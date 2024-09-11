@@ -16,7 +16,9 @@ Primary Focus Areas for Analysis
 9. Industries along with the total total funding & investors
 10. % change in funding pattern in each industry
 
-    ## **Dashboard Link - ** https://app.powerbi.com/viewr=eyJrIjoiMmE4NzQ4ZDAtNWE2ZS00NGUyLTgyNGUtY2RiMWU4MzY0NzE2IiwidCI6Ijg4ZTY2MzNlLWM3ZWQtNDZhNC1hMmU0LTYwNzA3ODkxZDY5NCJ9
+    #### Dashboard Link :
+https://app.powerbi.com/view?r=eyJrIjoiMmE4NzQ4ZDAtNWE2ZS00NGUyLTgyNGUtY2RiMWU4MzY0NzE2IiwidCI6Ijg4ZTY2MzNlLWM3ZWQtNDZhNC1hMmU0LTYwNzA3ODkxZDY5NCJ9
+    
 
 ![Unicorn -1](https://github.com/user-attachments/assets/c6ecde57-9b66-4bf3-8aee-feb4186dd683)
 ![Unicorn-2](https://github.com/user-attachments/assets/776cdc14-1853-4126-b4d3-f551a0d165cc)

@@ -1,3 +1,5 @@
+# About the report
+
 Completed building a interactive power bi report in which I conducted an 
 in-depth analysis of unicorn companies, exploring the key variables that contribute to their rapid growth and success.
 The report uncovers valuable insights into the impact of investment strategies across different regions and industries.
